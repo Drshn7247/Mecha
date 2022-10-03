@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-30T16:50:49 IST" name="Suite" finished-at="2022-09-30T16:50:54 IST" duration-ms="4446">
+    <groups>
+    </groups>
+    <test started-at="2022-09-30T16:50:49 IST" name="Test" finished-at="2022-09-30T16:50:54 IST" duration-ms="4446">
+      <class name="test.HomePageTest">
+        <test-method is-config="true" signature="start(java.lang.String,java.lang.String)[pri:0, instance:test.HomePageTest@71809907]" started-at="2022-09-30T16:50:34 IST" name="start" finished-at="2022-09-30T16:50:49 IST" duration-ms="15679" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://medisolve.co.in/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="initObjct()[pri:0, instance:test.HomePageTest@71809907]" started-at="2022-09-30T16:50:49 IST" name="initObjct" finished-at="2022-09-30T16:50:49 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initObjct -->
+        <test-method signature="urlTest()[pri:1, instance:test.HomePageTest@71809907]" started-at="2022-09-30T16:50:49 IST" name="urlTest" finished-at="2022-09-30T16:50:50 IST" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlTest -->
+        <test-method signature="logoTest()[pri:2, instance:test.HomePageTest@71809907]" started-at="2022-09-30T16:50:50 IST" name="logoTest" finished-at="2022-09-30T16:50:50 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method signature="searchbarFieldTest()[pri:3, instance:test.HomePageTest@71809907]" started-at="2022-09-30T16:50:50 IST" name="searchbarFieldTest" finished-at="2022-09-30T16:50:54 IST" duration-ms="3819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbarFieldTest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:test.HomePageTest@71809907]" started-at="2022-09-30T16:50:54 IST" name="closebrowser" finished-at="2022-09-30T16:50:54 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- test.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
